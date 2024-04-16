@@ -1,4 +1,4 @@
-package org.example;
+package com.multithreading;
 
 //Any class whose instance needs to be executed by a thread should implement the Runnable interface.
 public class ThreadRunnableExample implements Runnable{

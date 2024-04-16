@@ -1,4 +1,4 @@
-package org.example;
+package com.multithreading;
 
 public class ThreadRunnableAnonymousClass {
     public static void main(String[] args) {

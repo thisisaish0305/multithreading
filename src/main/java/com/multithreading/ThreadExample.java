@@ -1,4 +1,4 @@
-package org.example;
+package com.multithreading;
 
 public class ThreadExample extends Thread {
     @Override

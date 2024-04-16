@@ -1,4 +1,4 @@
-package org.example;
+package com.multithreading;
 
 public class ThreadSleepExample {
     public static void main(String[] args) {
