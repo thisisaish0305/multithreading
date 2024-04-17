@@ -22,7 +22,7 @@ public class MemoryConsistencyErrorExample {
     private static boolean sayHello = false;
 
     public static void main(String[] args) throws InterruptedException {
-
+//IMP : The first thread is unaware of the changes done by the main thread to the sayHello variable.
         Thread thread = new Thread(() -> {
             while(!sayHello) {
             }
